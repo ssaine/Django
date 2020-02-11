@@ -1,0 +1,2 @@
+# Django
+First Project app
